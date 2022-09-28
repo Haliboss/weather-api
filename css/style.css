@@ -2,13 +2,13 @@
 /* RESET STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 :root {
-  --bg_main: #0c6396;
-  --text_light: #fff;
+  --bg_main: #287577;
+  --text_light: rgb(255, 255, 255);
   --text_med: #53627c;
   --text_dark: #1e2432;
-  --red: #ff1e42;
+  --red: #134f72;
   --darkred: #c3112d;
-  --orange: #ff8c00;
+  --orange: #e56262;
 }
 
 * {
@@ -18,6 +18,11 @@
   font-weight: normal;
 }
 
+form {
+  margin: 2rem;
+  align-items: center;
+  justify-content: center;
+}
 a {
   color: inherit;
   text-decoration: none;
