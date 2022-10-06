@@ -108,3 +108,5 @@ document.querySelector(".cities").addEventListener("click", (e) => {
     alert("img is clicked!!!");
   }
 });
+
+console.log("new pc in my life");
